@@ -1,0 +1,307 @@
+.table,td{
+	border-collapse:collapse;
+	border-spacing:0;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	text-align:center;
+    box-shadow: 5px 5px 2px #999999;
+	width:1200px;
+	height:90px;
+	
+	
+}
+img{
+	width:50px;
+	height:50px;
+}
+#n:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/f/f6/Hiragana_%E3%82%93_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#wa:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/6/6a/Hiragana_%E3%82%8F_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ra:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/6/6c/Hiragana_%E3%82%89_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ya:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/0/07/Hiragana_%E3%82%84_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ma:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/6/65/Hiragana_%E3%81%BE_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ha:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/4/43/Hiragana_%E3%81%AF_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#na:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/8/83/Hiragana_%E3%81%AA_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ta:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/9/9a/Hiragana_%E3%81%9F_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#sa:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/7/79/Hiragana_%E3%81%95_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ka:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/9/97/Hiragana_%E3%81%8B_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#a:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/d/d8/Hiragana_%E3%81%82_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+
+
+#ri:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/9/9f/Hiragana_%E3%82%8A_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#mi:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/d/d7/Hiragana_%E3%81%BF_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#hi:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hiragana_%E3%81%B2_stroke_order_animation.gif/170px-Hiragana_%E3%81%B2_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ni:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/2/27/Hiragana_%E3%81%AB_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ti:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/3/32/Hiragana_%E3%81%A1_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#si:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/a/a4/Hiragana_%E3%81%97_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ki:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hiragana_%E3%81%8D_stroke_order_animation.gif/170px-Hiragana_%E3%81%8D_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#i:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hiragana_%E3%81%84_stroke_order_animation.gif/170px-Hiragana_%E3%81%84_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+
+#ru:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hiragana_%E3%82%8B_stroke_order_animation.gif/170px-Hiragana_%E3%82%8B_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#yu:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hiragana_%E3%82%86_stroke_order_animation.gif/170px-Hiragana_%E3%82%86_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#mu:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hiragana_%E3%82%80_stroke_order_animation.gif/170px-Hiragana_%E3%82%80_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#fu:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hiragana_%E3%81%B5_stroke_order_animation.gif/170px-Hiragana_%E3%81%B5_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#nu:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hiragana_%E3%81%AC_stroke_order_animation.gif/170px-Hiragana_%E3%81%AC_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#tu:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hiragana_%E3%81%A4_stroke_order_animation.gif/170px-Hiragana_%E3%81%A4_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#su:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hiragana_%E3%81%99_stroke_order_animation.gif/170px-Hiragana_%E3%81%99_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ku:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hiragana_%E3%81%8F_stroke_order_animation.gif/170px-Hiragana_%E3%81%8F_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#u:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hiragana_%E3%81%86_stroke_order_animation.gif/170px-Hiragana_%E3%81%86_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+
+#re:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hiragana_%E3%82%8C_stroke_order_animation.gif/170px-Hiragana_%E3%82%8C_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#me:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hiragana_%E3%82%81_stroke_order_animation.gif/170px-Hiragana_%E3%82%81_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#he:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hiragana_%E3%81%B8_stroke_order_animation.gif/170px-Hiragana_%E3%81%B8_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ne:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hiragana_%E3%81%AD_stroke_order_animation.gif/170px-Hiragana_%E3%81%AD_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#te:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hiragana_%E3%81%A6_stroke_order_animation.gif/170px-Hiragana_%E3%81%A6_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#se:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hiragana_%E3%81%9B_stroke_order_animation.gif/170px-Hiragana_%E3%81%9B_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ke:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hiragana_%E3%81%91_stroke_order_animation.gif/170px-Hiragana_%E3%81%91_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+
+#e:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hiragana_%E3%81%88_stroke_order_animation.gif/170px-Hiragana_%E3%81%88_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+
+#wo:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hiragana_%E3%82%92_stroke_order_animation.gif/170px-Hiragana_%E3%82%92_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ro:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hiragana_%E3%82%8D_stroke_order_animation.gif/170px-Hiragana_%E3%82%8D_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#yo:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hiragana_%E3%82%88_stroke_order_animation.gif/170px-Hiragana_%E3%82%88_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#mo:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hiragana_%E3%82%82_stroke_order_animation.gif/170px-Hiragana_%E3%82%82_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ho:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hiragana_%E3%81%BB_stroke_order_animation.gif/170px-Hiragana_%E3%81%BB_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#no:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hiragana_%E3%81%AE_stroke_order_animation.gif/170px-Hiragana_%E3%81%AE_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#to:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hiragana_%E3%81%A8_stroke_order_animation.gif/170px-Hiragana_%E3%81%A8_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#so:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hiragana_%E3%81%9D_stroke_order_animation.gif/170px-Hiragana_%E3%81%9D_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#ko:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hiragana_%E3%81%93_stroke_order_animation.gif/170px-Hiragana_%E3%81%93_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+#o:hover{
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hiragana_%E3%81%8A_stroke_order_animation.gif/170px-Hiragana_%E3%81%8A_stroke_order_animation.gif");
+    height: 50px;
+    width: 50px;
+}
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+#dic{
+  display: flex;
+  justify-content: center;
+}
+#A,#E,#I,#O,#U {
+    background-color: #CCCCFF; /* Green */
+    border: 1px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
